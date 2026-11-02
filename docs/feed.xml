@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>Bad Bytes</title>
+  <link>https://clsd-techservices.github.io/Bad_Bytes/</link>
+  <atom:link href="https://clsd-techservices.github.io/Bad_Bytes/feed.xml" rel="self" type="application/rss+xml"/>
+  <language>en-us</language>
+  <description>A daily, deeply unprofessional rundown of what's happening in K-12 IT: Intune, Entra, Verkada, AI, school cybersecurity and whatever else is on the horizon. Hosted by Rocco and Benji, who should not be trusted with Global Admin.</description>
+  <itunes:summary>A daily, deeply unprofessional rundown of what's happening in K-12 IT: Intune, Entra, Verkada, AI, school cybersecurity and whatever else is on the horizon. Hosted by Rocco and Benji, who should not be trusted with Global Admin.</itunes:summary>
+  <itunes:author>Scott Boyer</itunes:author>
+  <itunes:owner><itunes:name>Scott Boyer</itunes:name><itunes:email>sboyer@clsd.k12.pa.us</itunes:email></itunes:owner>
+  <itunes:image href="https://clsd-techservices.github.io/Bad_Bytes/cover.jpg"/>
+  <image><url>https://clsd-techservices.github.io/Bad_Bytes/cover.jpg</url><title>Bad Bytes</title><link>https://clsd-techservices.github.io/Bad_Bytes/</link></image>
+  <itunes:category text="Technology"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:type>episodic</itunes:type>
+  <lastBuildDate>Mon, 02 Nov 2026 17:18:58 +0000</lastBuildDate>
+</channel>
+</rss>
